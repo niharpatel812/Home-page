@@ -121,3 +121,37 @@
 </body>
 
 </html>
+
+
+
+
+__________________________________________________________CSS______________________________________________
+.navbar
+{
+  background-color: #4834DF;
+}
+.dvi-image
+{
+    padding: 50%;
+   /* clip-path: polygon(73% 0, 91% 19%, 100% 52%, 88% 86%, 68% 100%, 32% 100%, 1% 100%, 0% 43%, 0 0); */
+}
+.button-tea
+{
+    padding: 20%;
+    align-items: flex-start;
+}
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
+.div-class-h1
+{
+  padding: left;
+}
+
+    
